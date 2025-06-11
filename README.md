@@ -25,9 +25,9 @@
 ### Задание 1
 
 
-![settings](screenshots/1.2.png)
-![settings](screenshots/1.1.png)
-![result](screenshots/1.png)
+![settings](/home/lama/gitlab-hw/screenshots/1.2.png)
+![settings](/home/lama/gitlab-hw/screenshots/1.1.png)
+![result](/home/lama/gitlab-hw/screenshots/1.png)
 
 ---
 
