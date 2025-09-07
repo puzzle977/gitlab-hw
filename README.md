@@ -20,3 +20,4 @@
 
 ### Задание 4
 
+<img width="1846" height="869" alt="{C4897B92-EF68-47FA-9ABF-80B4C14E2599}" src="https://github.com/user-attachments/assets/4754f5ae-6a75-43bd-a8f5-ee053b46790f" />
