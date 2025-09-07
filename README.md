@@ -1,45 +1,23 @@
-# Домашнее задание к занятию "Что такое DevOps. СI/СD" - "Shchemelinin Anton`
+Домашнее задание к занятию «SQL. Часть 1»
 
 
-### Инструкция по выполнению домашнего задания
 
-   1. Сделайте `fork` данного репозитория к себе в Github и переименуйте его по названию или номеру занятия, например, https://github.com/имя-вашего-репозитория/git-hw или  https://github.com/имя-вашего-репозитория/7-1-ansible-hw).
-   2. Выполните клонирование данного репозитория к себе на ПК с помощью команды `git clone`.
-   3. Выполните домашнее задание и заполните у себя локально этот файл README.md:
-      - впишите вверху название занятия и вашу фамилию и имя
-      - в каждом задании добавьте решение в требуемом виде (текст/код/скриншоты/ссылка)
-      - для корректного добавления скриншотов воспользуйтесь [инструкцией "Как вставить скриншот в шаблон с решением](https://github.com/netology-code/sys-pattern-homework/blob/main/screen-instruction.md)
-      - при оформлении используйте возможности языка разметки md (коротко об этом можно посмотреть в [инструкции  по MarkDown](https://github.com/netology-code/sys-pattern-homework/blob/main/md-instruction.md))
-   4. После завершения работы над домашним заданием сделайте коммит (`git commit -m "comment"`) и отправьте его на Github (`git push origin`);
-   5. Для проверки домашнего задания преподавателем в личном кабинете прикрепите и отправьте ссылку на решение в виде md-файла в вашем Github.
-   6. Любые вопросы по выполнению заданий спрашивайте в чате учебной группы и/или в разделе “Вопросы по заданию” в личном кабинете.
-   
-Желаем успехов в выполнении домашнего задания!
-   
-### Дополнительные материалы, которые могут быть полезны для выполнения задания
-
-1. [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637#Code)
-
----
 
 ### Задание 1
 
+<img width="1018" height="966" alt="{A3BE774E-1F4F-4620-8DB6-62C089D3B559}" src="https://github.com/user-attachments/assets/e502843b-e89f-4bc3-b59d-33382c16a70b" />
 
-![settings](/screenshots/1.2.png)
-![settings](/screenshots/1.1.png)
-![result](/screenshots/1.png)
-
----
 
 ### Задание 2
-![settings](/screenshots/2.1.png)
-![result](/screenshots/2.png)
 
+<img width="1100" height="959" alt="{B3E925A2-2EF9-446B-817C-FC0F9B8FEC94}" src="https://github.com/user-attachments/assets/9c17329c-66d9-4657-8c80-918ed9febf11" />
 
----
 
 ### Задание 3
-![result](/screenshots/3.png)
-![result](/screenshots/3.1.png)
-![result](/screenshots/3.2.png)
 
+<img width="1117" height="957" alt="{29A4C90D-8020-49FE-A1A2-C193204F9C09}" src="https://github.com/user-attachments/assets/db290202-3d72-4eda-9ea7-efcf931781db" />
+
+
+### Задание 4
+
+<img width="1062" height="974" alt="{53DF6B4E-8133-4A53-95A6-05000785EF53}" src="https://github.com/user-attachments/assets/75a2b62d-264c-4947-9e3e-590dd1c857d7" />
